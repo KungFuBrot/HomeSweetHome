@@ -1,0 +1,7 @@
+# Nur die veroeffentlichte Seite gehoert ins Repo.
+# Exporte (*.json), Tabellen und Notizen mit eigenen Zahlen bleiben lokal.
+*.json
+*.xlsx
+*.csv
+*.txt
+!fonts/OFL.txt
